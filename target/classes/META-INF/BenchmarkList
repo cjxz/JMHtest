@@ -1,0 +1,4 @@
+JMH S 28 co.speedar.infra.MyBenchmark S 62 co.speedar.infra.generated.MyBenchmark_stringBufferAdd_jmhTest S 15 stringBufferAdd S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 28 co.speedar.infra.MyBenchmark S 56 co.speedar.infra.generated.MyBenchmark_stringAdd_jmhTest S 9 stringAdd S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 33 co.speedar.infra.JmhByUserService S 71 co.speedar.infra.generated.JmhByUserService_testGetBaseUserInfo_jmhTest S 19 testGetBaseUserInfo S 11 AverageTime I 1 8 A 1 1 1 E I 1 3 E E I 2 10 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 33 co.speedar.infra.JmhByUserService S 65 co.speedar.infra.generated.JmhByUserService_testStringAdd_jmhTest S 13 testStringAdd S 11 AverageTime I 1 8 A 1 1 1 E I 1 3 E E I 2 10 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
